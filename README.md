@@ -1,4 +1,4 @@
-# Hi, I'm GiGi Molki (Gireesh Kumar Koneti) 👋
+# Hi, I'm GiGi Molki  👋
 
 🎓 First-year engineering student at **BMS College of Engineering**  
 🎯 Aspiring **HFT ML Engineer** | AI Researcher | Portfolio Intelligence Enthusiast  
