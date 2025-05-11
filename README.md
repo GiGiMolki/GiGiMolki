@@ -50,9 +50,9 @@ I believe in mastering the fundamentals, learning from first principles, and gra
 
 ## 📫 Let’s Connect
 
-- 📩 Email: gigimolki@gmail.com  
+- 📩 Email: gigimolki.ai@gmail.com  
 - 💼 LinkedIn: (https://www.linkedin.com/in/gigimolki)  
-- 🧠 GitHub: (https://github.com/gigimolki)
+- 🧠 GitHub: (https://github.com/GiGiMolki)
 
 ---
 
